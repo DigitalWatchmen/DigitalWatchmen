@@ -5,6 +5,6 @@
 
 - Google Professional Cybersecurity Certificate
 
-  <h2>Projects</h2>
+<h2>Projects</h2>
 
 - [Botium Toy's Security Audit](https://github.com/DigitalWatchmen/Botium-Toys/tree/main)
