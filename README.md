@@ -7,4 +7,5 @@
 
 <h2>Projects</h2>
 
-- [Botium Toy's Security Audit](https://github.com/DigitalWatchmen/Botium-Toys/tree/main)
+- [Security Audit](https://github.com/DigitalWatchmen/Botium-Toys/tree/main)
+- [Incident Report Analysis](https://github.com/DigitalWatchmen/Incident-Report-Analysis)
