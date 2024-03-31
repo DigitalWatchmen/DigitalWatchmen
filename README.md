@@ -9,3 +9,4 @@
 
 - [Security Audit](https://github.com/DigitalWatchmen/Botium-Toys/tree/main)
 - [Incident Report Analysis](https://github.com/DigitalWatchmen/Incident-Report-Analysis)
+- [Managing Authorization](https://github.com/DigitalWatchmen/Managing-Authorization)
