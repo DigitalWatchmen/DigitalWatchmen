@@ -3,11 +3,21 @@
 
 <h2>Projects</h2>
 
-- [Security Audit](https://github.com/DigitalWatchmen/Botium-Toys/tree/main)
-- [Incident Report Analysis](https://github.com/DigitalWatchmen/Incident-Report-Analysis)
-- [Managing Authorization Using Linux CLI](https://github.com/DigitalWatchmen/Managing-Authorization)
-- [SQL Database Filtering Using AND, NOT and LIKE Operators](https://github.com/DigitalWatchmen/Filtering-with-AND-OR-and-NOT-Operators)
-- [Suspicious Bank Deposit Investigation](https://github.com/DigitalWatchmen/Access-Control)
+- Audits
+  - [Security Audit](https://github.com/DigitalWatchmen/Botium-Toys/tree/main)
+ 
+- Analysis and Investigations
+  - [Incident Report Analysis](https://github.com/DigitalWatchmen/Incident-Report-Analysis)
+  - [Suspicious Bank Deposit Investigation](https://github.com/DigitalWatchmen/Access-Control)
+
+ - Managing Authorization
+   - [Managing Authorization Using Linux CLI](https://github.com/DigitalWatchmen/Managing-Authorization)
+
+- SQL
+  - [SQL Database Filtering Using AND, NOT and LIKE Operators](https://github.com/DigitalWatchmen/Filtering-with-AND-OR-and-NOT-Operators)
+ 
+- Python
+  - [Updating a file of IP addresses using Python](https://github.com/DigitalWatchmen/Updating-File-Of-IP-Addresses-With-Python/tree/main)
 
 <h2>Certifications</h2>
 
