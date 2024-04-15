@@ -21,4 +21,4 @@
 
 <h2>Certifications</h2>
 
-- Google Professional Cybersecurity Certificate
+- [Google Professional Cybersecurity Certificate](https://github.com/DigitalWatchmen/Google-Cybersecurity-Professional-Certificate/blob/main/README.md)
